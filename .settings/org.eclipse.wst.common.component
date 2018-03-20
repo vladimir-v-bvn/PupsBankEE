@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="PupsBankEE">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/images"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/WebContent/images"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/WebContent/javascript"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/WebContent/css"/>
+        <property name="context-root" value="PupsBankEE"/>
+        <property name="java-output-path" value="/PupsBankEE/build/classes"/>
+    </wb-module>
+</project-modules>
